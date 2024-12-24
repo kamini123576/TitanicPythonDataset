@@ -1,4 +1,4 @@
-# TitanicPythonDataset
+# Titanic Survival Dataset
 This dataset captures detailed information about Titanic passengers, including demographic data, ticket details, and survival outcomes. It consists of 891 entries and 12 columns. Exploratory Data Analysis (EDA) provided insights into the data distribution and relationships between variables. 
 
 his dataset captures detailed information about Titanic passengers, including demographic data, ticket details, and survival outcomes. It consists of 891 entries and 12 columns: PassengerId, Survived, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, and Embarked. These features provide a rich source of data for predictive modeling, especially for understanding factors that influenced survival during the Titanic disaster.
